@@ -23,7 +23,7 @@ rm -rf ~/Library/iTunes/iPhone\ Software\ Updates/*
 rm -rf ~/Library/Containers/com.apple.mail/Data/Library/Mail\ Downloads/*
 
 # clean homebrew cache
-rm -rf /Users/ebeigarts/Library/Caches/Homebrew/*
+rm -rf /Users/osegrums/Library/Caches/Homebrew/*
 
 # cleanup spotify cache
 rm -rf ~/Library/Caches/com.spotify.client/*

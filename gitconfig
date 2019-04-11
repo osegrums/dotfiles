@@ -1,6 +1,6 @@
 [user]
-  name = Edgars Beigarts
-  email = edgars.beigarts@gmail.com
+  name = Oskars Segrums
+  email = oskars.segrums@gmail.com
 [alias]
   co = checkout
 [apply]
@@ -30,7 +30,7 @@
 [push]
   default = simple
 [github]
-  user = ebeigarts
+  user = osegrums
 [filter "media"]
   clean = git-media-clean %f
   smudge = git-media-smudge %f
