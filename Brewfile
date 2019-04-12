@@ -106,6 +106,8 @@ cask "firefox"
 
 # communication
 cask "skype"
+cask "slack"
+cask "whatsapp"
 
 # java
 cask "java" # java8
@@ -146,6 +148,7 @@ cask "sketch"
 # cask "inkscape # requires xquartz
 cask "xquartz"
 cask "adobe-dng-converter"
+cask "qlImageSize"
 # cask raw-therapee
 # cask gimp-lisanet
 # cask raw-photo-processor
